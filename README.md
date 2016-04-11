@@ -40,6 +40,29 @@ In your concluding paragraph, you want to restate your interest and value in the
 
 The most important takeaway from this lesson should be that employers care about how you write. Even though you’re starting a new role as a technologist, you should expect to communicate constantly with colleagues, so show your competency via your cover letter.  Sure, cover letters aren’t always necessary but you should always strive to go above and beyond whenever you can. Always proofread, and don’t ever copy and paste a cover letter and send it to multiple companies (the same way you’d never send the same thank you note to multiple employees at a company after interviewing with them). 
 
+## Assignment- Cover Letters
+
+Create a Google doc. Remember to retitle it ""Your Name" + Cover Letters"
+
+For this assignment we aren’t going to make you write a complete cover letter. Instead, choose 3 companies that interest you and write an opening cover letter section for each one, showing you’ve done your research, know the company’s voice/tone, and makes you stand out.
+
+Fill out the Google Doc with the above opening sections. 
+
+**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Cover Letters”
+
+In the body of your email again include:
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
+
+Update your Careers Prep Tracker sheet with the date submitted.
+
 ## Resources
 
 [Killer Cover Letters](http://www.levo.com/articles/skills/killer-cover-letters-startup-edition)
