@@ -48,7 +48,9 @@ For this assignment we aren’t going to make you write a complete cover letter.
 
 Fill out the Google Doc with the above opening sections. 
 
-**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
+
+Remember in the subject line to include your name and this specific assignment.
 
 In this case, your email subject line will be “”Your Name” + Cover Letters”
 
