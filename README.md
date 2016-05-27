@@ -42,28 +42,7 @@ The most important takeaway from this lesson should be that employers care about
 
 ## Assignment- Cover Letters
 
-Create a Google doc. Remember to retitle it ""Your Name" + Cover Letters"
-
-For this assignment we aren’t going to make you write a complete cover letter. Instead, choose 3 companies that interest you and write an opening cover letter section for each one, showing you’ve done your research, know the company’s voice/tone, and makes you stand out.
-
-Fill out the Google Doc with the above opening sections. 
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “”Your Name” + Cover Letters”
-
-In the body of your email again include:
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document
-
-Update your Careers Prep Tracker sheet with the date submitted.
+There is no specific assignment to submit for this lesson. Remember that many tech jobs don't call for cover letters so only spend time writing one if a specific job calls for it. It is not a good use of time to draft a "generic" cover letter. You should always write a custom cover letter to any job you're applying for anyway. See resources below in case you are asked to draft a cover letter.
 
 ## Resources
 
