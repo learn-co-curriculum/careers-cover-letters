@@ -12,7 +12,7 @@ Your cover letter is the place where you connect the dots on your resume—it’
 
 *When thinking about how formal your language should be** take a cue from the way the company presents itself on its website. If it’s a large corporation with professional language on its site, write your cover letter accordingly. For smaller companies and startups with casual language on their sites, use a more conversational tone.
 
-**On formatting:** If you’re submitting a traditional cover letter to a more established company, go ahead and use the standard address-on-top letter formatting. Fro startups, it’s your preference. Your candidacy likely won’t be impacted either way if you keep the address-on-top letter formatting. However, if you’re writing a cover in the body of an email, skip it. Regardless of what kind of company you’re writing to, avoid addressing your reader with, “To Whom It May Concern,” or “Dear Sir or Madam.” Ideally, find the name of the hiring manager or, if that’s not possible, go ahead and use something like, “Dear Hiring Manager,” or “Hello Team [Company Name].” 
+**On formatting:** If you’re submitting a traditional cover letter to a more established company, go ahead and use the standard address-on-top letter formatting. For startups, it’s your preference. Your candidacy likely won’t be impacted either way if you keep the address-on-top letter formatting. However, if you’re writing a cover in the body of an email, skip it. Regardless of what kind of company you’re writing to, avoid addressing your reader with, “To Whom It May Concern,” or “Dear Sir or Madam.” Ideally, find the name of the hiring manager or, if that’s not possible, go ahead and use something like, “Dear Hiring Manager,” or “Hello Team [Company Name].” 
 
 **So, what does all that look like in order?** In your first paragraph, start with what is essentially your elevator pitch and then go into why you’re in love with the company (we’re not kidding here -- you need to emphasize why this company interests you, and do it with energy). 
 
@@ -49,3 +49,5 @@ There is no specific assignment to submit for this lesson. Remember that many te
 [Killer Cover Letters](http://www.levo.com/articles/skills/killer-cover-letters-startup-edition)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-cover-letters'>Careers Cover Letters</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-cover-letters'>Cover Letters</a> on Learn.co and start learning to code for free.</p>
