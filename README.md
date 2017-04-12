@@ -40,9 +40,7 @@ In your concluding paragraph, you want to restate your interest and value in the
 
 The most important takeaway from this lesson should be that employers care about how you write. Even though you’re starting a new role as a technologist, you should expect to communicate constantly with colleagues, so show your competency via your cover letter.  Sure, cover letters aren’t always necessary but you should always strive to go above and beyond whenever you can. Always proofread, and don’t ever copy and paste a cover letter and send it to multiple companies (the same way you’d never send the same thank you note to multiple employees at a company after interviewing with them). 
 
-## Assignment- Cover Letters
-
-There is no specific assignment to submit for this lesson. Remember that many tech jobs don't call for cover letters so only spend time writing one if a specific job calls for it. It is not a good use of time to draft a "generic" cover letter. You should always write a custom cover letter to any job you're applying for anyway. See resources below in case you are asked to draft a cover letter.
+Remember that many tech jobs don't call for cover letters so only spend time writing one if a specific job calls for it. It is not a good use of time to draft a "generic" cover letter. You should always write a custom cover letter to any job you're applying for anyway. See resources below in case you are asked to draft a cover letter.
 
 ## Resources
 
