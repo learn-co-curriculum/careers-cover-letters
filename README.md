@@ -24,13 +24,13 @@ Important: If you were referred to a company for an open position by someone tha
 
 Here are some sample subject lines for cover letter/application-based emails: 
 
-  Application for [Job Title] 
+  - Application for [Job Title] 
 
-  [Job Title] Cover Letter – [Your Name]
+  - [Job Title] Cover Letter – [Your Name]
 
-  Referred by [Reference Name] for [Job Title] Role
+  - Referred by [Reference Name] for [Job Title] Role
 
-  Full Stack Developer Seeking [Job Title] Role
+  - Full Stack Developer Seeking [Job Title] Role
 
 **On formatting:** If you’re submitting a traditional cover letter to a more established company, go ahead and use the standard address-on-top letter formatting. For startups, it’s your preference. Your candidacy likely won’t be impacted either way if you keep the address-on-top letter formatting. However, if you’re writing a cover in the body of an email, skip it. Regardless of what kind of company you’re writing to, avoid addressing your reader with, “To Whom It May Concern,” or “Dear Sir or Madam.” Ideally, find the name of the hiring manager or, if that’s not possible, go ahead and use something like, “Dear Hiring Manager,” “Dear Recruiting Manager”, or “Hello Team [Company Name].”
 
